@@ -1,0 +1,57 @@
+html{background-color:#DF5286;}
+.h1 {
+    color:#81D4FA;
+    display :flex;
+    justify-content:center;
+    font-family: 'Elsie Swash Caps', cursive;
+    font-size:50px;
+    }
+.slogan{
+    color:red;
+    display :flex;
+    justify-content:center;
+    background:pink;
+    font-family: 'Cinzel', serif;
+
+    }
+.me{
+    color:red;
+    background:pink;
+    font-family: 'Handlee', cursive;
+    
+    }
+img{
+    width: 200px;
+    border:5px solid black;
+    margin:6px;
+    padding:2px;
+    }
+.pic{
+    display :flex;
+    justify-content:center;
+     background:pink;
+    }
+.plan1{
+     display :flex;
+    justify-content:center;
+    background:#DF5286;
+    font-family: 'Coming Soon', cursive;
+    color:#81D4FA;
+    }
+.plan2{
+     display :flex;
+    justify-content:center;
+    background:#DF5286;
+    }
+ul{
+    color:#81D4FA;
+   
+    }
+.butt{
+     display :flex;
+    justify-content:center;
+    background:#DF5286;
+    }
+button{
+     width:90px;
+}
